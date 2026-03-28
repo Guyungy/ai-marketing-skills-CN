@@ -207,10 +207,16 @@ MIT
 
 <div align="center">
 
-### Built by [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+## 🧠 Want these built and managed for you?
 
-**We help companies grow with AI-powered marketing. These are the tools we use internally.**
+**Single Brain deploys AI revenue agents that run your pipeline end-to-end.**
 
-[Learn more →](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+<a href="https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills"><img src="https://img.shields.io/badge/Single_Brain-Get_Started-FF6B35?style=for-the-badge" alt="Get Started with Single Brain"></a>
+
+---
+
+*Want your marketing managed by the AI-forward Single Grain team?*
+
+[Learn more about Single Grain →](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
 
 </div>
