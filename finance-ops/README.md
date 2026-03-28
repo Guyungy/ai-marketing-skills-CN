@@ -81,7 +81,7 @@ The scenario modeler:
 
 ## Benchmark Thresholds
 
-Built-in benchmarks for B2B services businesses:
+Built-in benchmarks for services businesses:
 
 | Metric | 🟢 Healthy | 🟡 Watch | 🔴 Action Needed |
 |--------|-----------|---------|-----------------|

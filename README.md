@@ -1,6 +1,6 @@
 # AI Marketing Skills
 
-**Open-source Claude Code skills for B2B marketing and sales teams.** Built by the team at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) — battle-tested on real pipelines generating millions in revenue.
+**Open-source Claude Code skills for marketing and sales teams.** Built by the team at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) — battle-tested on real pipelines generating millions in revenue.
 
 These aren't prompts. They're complete workflows — scripts, scoring algorithms, expert panels, and automation pipelines you can plug into Claude Code (or any AI coding agent) and run today.
 
@@ -137,7 +137,7 @@ MIT License. Use these however you want.
 
 ## 🏢 About
 
-Built by the marketing engineering team at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills). We help B2B companies grow with AI-powered marketing and sales operations.
+Built by the marketing engineering team at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills). We help companies grow with AI-powered marketing and sales operations.
 
 **Want these skills managed for you?** [Talk to us](https://www.singlegrain.com/contact/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) — we run these systems for companies doing $10M-$500M in revenue.
 

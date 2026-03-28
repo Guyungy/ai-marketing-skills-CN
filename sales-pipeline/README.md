@@ -4,7 +4,7 @@
 
 A complete AI-powered sales pipeline automation suite: from website visitor identification through intent scoring, suppression, campaign routing, dead deal resurrection, trigger-based prospecting, and self-learning ICP optimization.
 
-These tools were built in production at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills), processing thousands of visitors and deals weekly. Now open-sourced for any B2B company to use.
+These tools were built in production at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills), processing thousands of visitors and deals weekly. Now open-sourced for any company to use.
 
 ---
 
