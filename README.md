@@ -25,7 +25,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/singlegrain/ai-marketing-skills.git
+git clone https://github.com/Guyungy/ai-marketing-skills-CN.git
 cd ai-marketing-skills
 
 # 2. 进入对应类别
